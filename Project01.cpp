@@ -1,6 +1,6 @@
 //==========================================================
 //
-// Title:      Rental Rambos Project
+// Title:      Financial Projection
 // Course:     CSC 1101
 // Author:     Patrick Ducusin
 // Date:       <03/04/2021>
@@ -52,7 +52,7 @@ int main()
   const int COLWIDTH7 = 15;
   
   // Show the application header
-  cout << "Welcome to Rental Rambos!" << endl;
+  cout << "Welcome to Financial Projection!" << endl;
   cout << "-----------------------------" << endl << endl;
 
   // Get user input using validation loops
@@ -154,7 +154,7 @@ int main()
 
   
   // Show the closing application comment
-  cout << "\nEnd of Rental Rambos!" << endl;
+  cout << "\nEnd of Financial Projection!" << endl;
 	 
   }
   
